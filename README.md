@@ -111,7 +111,7 @@ API_URL=your_api_url_here
 | `npm start`     | Run the production build       |
 | `npm run lint`  | Check the code for lint errors |
 
-## 🌐 Deployment
+## 🌐 Deployment ##
 
 This project can be deployed for free on **Vercel**, **Netlify** or **Render**. Connect your GitHub repository and every push to the `main` branch will deploy automatically.
 
