@@ -83,7 +83,7 @@ project-name/
 npm run build
 ```
 
-### Using the shell scripts
+### Using the shell scripts ####
 
 Make a script executable, then run it:
 
