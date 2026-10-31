@@ -77,7 +77,7 @@ project-name/
    npm run dev
    ```
 
-### Build for production
+### Build for production ####
 
 ```bash
 npm run build
