@@ -8,7 +8,7 @@ A modern, type-safe application built with **TypeScript**, with helper shell scr
 
 🔗 **Live Demo:** [your-project-link.com](https://your-project-link.com)
 
-## 📌 About
+## 📌 About ##
 
 Replace this paragraph with a short description of your project: what it does, who it is for, and the problem it solves.
 
