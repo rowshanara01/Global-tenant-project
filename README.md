@@ -20,7 +20,7 @@ Replace this paragraph with a short description of your project: what it does, w
 - Clean, modular and scalable project structure
 - Simple setup with npm
 
-## 🛠️ Tech Stack ##
+#### 🛠️ Tech Stack ####
 
 - **TypeScript** – primary language
 - **Shell scripts** – automation and tooling
