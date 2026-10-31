@@ -51,7 +51,7 @@ project-name/
 - npm
 - A Bash-compatible shell to run the scripts (Git Bash or WSL on Windows)
 
-### Installation ###
+#### Installation ####
 
 1. Clone the repository
 
