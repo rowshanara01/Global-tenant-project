@@ -102,7 +102,7 @@ API_URL=your_api_url_here
 
 > Never commit your `.env` file to GitHub. Make sure it is listed in `.gitignore`.
 
-## 📜 Available Scripts
+## 📜 Available Scripts ##
 
 | Command         | Description                    |
 | --------------- | ------------------------------ |
