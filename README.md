@@ -1,4 +1,4 @@
-# Project Name
+#### Project Name ####
 
 A modern, type-safe application built with **TypeScript**, with helper shell scripts for setup and automation.
 
