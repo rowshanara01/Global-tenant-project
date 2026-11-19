@@ -115,7 +115,7 @@ API_URL=your_api_url_here
 
 This project can be deployed for free on **Vercel**, **Netlify** or **Render**. Connect your GitHub repository and every push to the `main` branch will deploy automatically.
 
-## 🤝 Contributing
+#### Contributing
 
 Contributions, issues and feature requests are welcome.
 
